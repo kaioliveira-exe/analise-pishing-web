@@ -1,4 +1,4 @@
-# Análise de Dados: Detecção de Phishing em Páginas Web 🛡️🌐
+# Análise de Dados: Detecção de Phishing em Páginas Web
 
 ## Sobre o Projeto
 Este projeto foi desenvolvido para analisar e identificar padrões em URLs fraudulentas (Phishing). O objetivo é entender quais características estruturais de uma URL (como tamanho, uso de caracteres especiais e redirecionamentos) servem como indicadores estatísticos de que um site é falso e tenta enganar usuários.
